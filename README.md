@@ -1,4 +1,4 @@
-# Phishing Emaul Analysis
+# Phishing Email Analysis
 
 ## 📌 Objective
 The goal of this task is to analyze a suspicious email and identify phishing characterstics such as spoofed sender details,  fake links,  and social engineering tactics.
@@ -73,3 +73,4 @@ The goal of this task is to analyze a suspicious email and identify phishing cha
 
 ##  📝 Suggested Short Conclusion 
  **Verdict:** Likely phishing. The sending domain (`msupdate.net`) does not match Microsoft official domains; the message uses Microsoft branding and urges action via links. Without raw header authentication results, final confirmation is pending, but do not interact with the links — verify via the official Microsoft site.  
+
